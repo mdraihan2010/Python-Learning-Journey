@@ -2,7 +2,7 @@
 
 Welcome to my **Python Learning Journey** repository.
 
-This repository documents my complete journey of learning Python from **beginner to advanced**. It contains lesson-wise practice programs, notes, exercises, mini projects, and problem-solving solutions.
+This repository documents my complete journey of learning **Python from beginner to advanced**. It includes lesson-wise practice programs, notes, exercises, mini projects, and problem-solving challenges. Every phase is organized to help build a strong foundation in Python programming.
 
 ---
 
@@ -11,25 +11,61 @@ This repository documents my complete journey of learning Python from **beginner
 - Learn Python from scratch.
 - Build strong programming fundamentals.
 - Improve logical thinking and problem-solving skills.
-- Build real-world Python projects.
+- Develop real-world Python projects.
 - Maintain a professional GitHub portfolio.
+- Continuously track my learning progress.
+
+---
+
+# ✨ Highlights
+
+- 📚 Structured phase-wise learning roadmap
+- 💻 Lesson-wise practice programs
+- 📝 Beginner-friendly notes
+- 🧩 Hands-on coding exercises
+- 🚀 Mini projects
+- 🔄 Regular Git & GitHub updates
+- 📈 Continuous learning progress tracking
 
 ---
 
 # 📚 Learning Roadmap
 
-## 📖 Phase 01 - Python Basics
+| Phase | Status |
+|--------|--------|
+| 🟢 Phase 01 – Python Basics | In Progress |
+| ⚪ Phase 02 – Data Structures | Planned |
+| ⚪ Phase 03 – File Handling | Planned |
+| ⚪ Phase 04 – Object-Oriented Programming | Planned |
+| ⚪ Phase 05 – Modules & Packages | Planned |
+| ⚪ Phase 06 – Exception Handling | Planned |
+| ⚪ Phase 07 – Mini Projects | Planned |
+| ⚪ Phase 08 – Problem Solving | Planned |
 
-- ✅ Lesson 01 - Hello World
-- ✅ Lesson 02 - Variables
-- ✅ Lesson 03 - Data Types
-- ⏳ Lesson 04 - User Input
-- ⏳ Lesson 05 - Type Casting
-- ⏳ Lesson 06 - Operators
-- ⏳ Lesson 07 - Strings
-- ⏳ Lesson 08 - Conditional Statements
-- ⏳ Lesson 09 - Loops
-- ⏳ Lesson 10 - Functions
+> 📌 Each phase contains its own **README** with lesson-wise details and learning progress.
+
+---
+
+# 📈 Learning Progress
+
+| Phase | Progress |
+|--------|----------|
+| 🐍 Python Basics | **4 / 10 Lessons (40%)** |
+| 📦 Data Structures | 0% |
+| 📁 File Handling | 0% |
+| 🏗 Object-Oriented Programming | 0% |
+| 📚 Modules & Packages | 0% |
+| ⚠ Exception Handling | 0% |
+| 🚀 Mini Projects | 0% |
+| 🧩 Problem Solving | 0% |
+
+---
+
+# 📍 Current Progress
+
+### Current Phase
+
+**Phase 01 – Python Basics**
 
 ---
 
@@ -39,17 +75,6 @@ This repository documents my complete journey of learning Python from **beginner
 Python-Learning-Journey
 │
 ├── Phase01_Python_Basics
-│   ├── Lesson01_Hello_World
-│   ├── Lesson02_Variables
-│   ├── Lesson03_Data_Types
-│   ├── Lesson04_User_Input
-│   ├── Lesson05_Type_Casting
-│   ├── Lesson06_Operators
-│   ├── Lesson07_Strings
-│   ├── Lesson08_Conditional_Statements
-│   ├── Lesson09_Loops
-│   └── Lesson10_Functions
-│
 ├── Phase02_Data_Structures
 ├── Phase03_File_Handling
 ├── Phase04_Object_Oriented_Programming
@@ -62,21 +87,6 @@ Python-Learning-Journey
 
 ---
 
-# 📈 Learning Progress
-
-| Phase | Progress |
-|--------|----------|
-| Python Basics | **3 / 10 Lessons** (30%) |
-| Data Structures | 0% |
-| File Handling | 0% |
-| Object-Oriented Programming | 0% |
-| Modules & Packages | 0% |
-| Exception Handling | 0% |
-| Mini Projects | 0% |
-| Problem Solving | 0% |
-
----
-
 # 🛠 Technologies
 
 - Python
@@ -86,33 +96,16 @@ Python-Learning-Journey
 
 ---
 
-# 📌 Current Progress
-
-Completed:
-
-- ✅ Hello World
-- ✅ Variables
-- ✅ Data Types
-
-Currently Learning:
-
-- 📖 User Input
-
-Next Topics:
-
-- Type Casting
-- Operators
-- Strings
-- Conditional Statements
-- Loops
-- Functions
-
----
-
 # 🚀 Author
 
-**Raihan**
+**MD Raihan**
 
 Computer Science & Engineering Student
 
 Learning Python step by step while building a professional GitHub portfolio.
+
+---
+
+## ⭐ Repository Status
+
+This repository is actively maintained and updated as I continue my Python learning journey.
