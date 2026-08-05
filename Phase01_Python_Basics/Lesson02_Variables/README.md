@@ -1,63 +1,30 @@
-# 📘 Lesson 02 - Variables
+# 🐍 Lesson 02 - Variables
 
-Welcome to **Lesson 02 - Variables**.
+## 📖 Overview
 
-In this lesson, I learned the fundamentals of **Python Variables** and how to store, update, and display data using variables.
+This lesson introduces the concept of variables in Python. I learned how to create variables, store different types of values, update variable values, and display them using the `print()` function.
 
----
+## 📚 Topics Covered
 
-# 🎯 Learning Objectives
-
-- Understand what variables are.
-- Learn Python variable naming rules.
-- Store different types of data.
-- Print variable values.
-- Practice writing clean and readable code.
-
----
-
-# 📚 Topics Covered
-
+- What is a Variable?
 - Variable Declaration
 - Assigning Values
+- Updating Variables
 - Multiple Variables
 - Printing Variables
-- Naming Conventions
+- Variable Naming Rules
 
----
+## 📂 Files
 
-# 📂 Files
+- example_01.py
+- example_02.py
+- example_03.py
+- example_04.py
 
-| File | Description |
-|------|-------------|
-| `example_01.py` | Creating and printing a variable |
-| `example_02.py` | Updating variable values |
-| `example_03.py` | Multiple variables |
-| `example_04.py` | Student information example |
+## 🎯 What I Learned
 
----
-
-# 💻 Example
-
-```python
-name = "Raihan"
-age = 23
-
-print(name)
-print(age)
-```
-
----
-
-# 📝 What I Learned
-
-- Variables are used to store data.
-- Variables can be updated anytime.
-- Python does not require declaring a data type before creating a variable.
-- Meaningful variable names improve code readability.
-
----
-
-# 🚀 Status
-
-✅ Completed
+- How to create variables in Python.
+- How to assign values to variables.
+- How to update variable values.
+- How to print variables using the `print()` function.
+- How to use meaningful variable names following Python naming conventions.
