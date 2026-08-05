@@ -61,14 +61,6 @@ This repository documents my complete journey of learning **Python from beginner
 
 ---
 
-# 📍 Current Progress
-
-### Current Phase
-
-**Phase 01 – Python Basics**
-
----
-
 # 📂 Repository Structure
 
 ```text
