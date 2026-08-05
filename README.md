@@ -11,18 +11,18 @@ This repository documents my complete journey of learning Python from **beginner
 - Learn Python from scratch.
 - Build strong programming fundamentals.
 - Improve logical thinking and problem-solving skills.
-- Create real-world Python projects.
+- Build real-world Python projects.
 - Maintain a professional GitHub portfolio.
 
 ---
 
 # 📚 Learning Roadmap
 
-## Phase 01 - Python Basics
+## 📖 Phase 01 - Python Basics
 
 - ✅ Lesson 01 - Hello World
 - ✅ Lesson 02 - Variables
-- ⏳ Lesson 03 - Data Types
+- ✅ Lesson 03 - Data Types
 - ⏳ Lesson 04 - User Input
 - ⏳ Lesson 05 - Type Casting
 - ⏳ Lesson 06 - Operators
@@ -39,6 +39,17 @@ This repository documents my complete journey of learning Python from **beginner
 Python-Learning-Journey
 │
 ├── Phase01_Python_Basics
+│   ├── Lesson01_Hello_World
+│   ├── Lesson02_Variables
+│   ├── Lesson03_Data_Types
+│   ├── Lesson04_User_Input
+│   ├── Lesson05_Type_Casting
+│   ├── Lesson06_Operators
+│   ├── Lesson07_Strings
+│   ├── Lesson08_Conditional_Statements
+│   ├── Lesson09_Loops
+│   └── Lesson10_Functions
+│
 ├── Phase02_Data_Structures
 ├── Phase03_File_Handling
 ├── Phase04_Object_Oriented_Programming
@@ -55,11 +66,14 @@ Python-Learning-Journey
 
 | Phase | Progress |
 |--------|----------|
-| Python Basics | 2 / 10 Lessons |
+| Python Basics | **3 / 10 Lessons** (30%) |
 | Data Structures | 0% |
 | File Handling | 0% |
-| OOP | 0% |
+| Object-Oriented Programming | 0% |
+| Modules & Packages | 0% |
+| Exception Handling | 0% |
 | Mini Projects | 0% |
+| Problem Solving | 0% |
 
 ---
 
@@ -72,10 +86,33 @@ Python-Learning-Journey
 
 ---
 
+# 📌 Current Progress
+
+Completed:
+
+- ✅ Hello World
+- ✅ Variables
+- ✅ Data Types
+
+Currently Learning:
+
+- 📖 User Input
+
+Next Topics:
+
+- Type Casting
+- Operators
+- Strings
+- Conditional Statements
+- Loops
+- Functions
+
+---
+
 # 🚀 Author
 
 **Raihan**
 
 Computer Science & Engineering Student
 
-Learning Python step by step and sharing my progress on GitHub.
+Learning Python step by step while building a professional GitHub portfolio.
