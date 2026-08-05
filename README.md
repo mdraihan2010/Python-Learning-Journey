@@ -46,21 +46,6 @@ This repository documents my complete journey of learning **Python from beginner
 
 ---
 
-# 📈 Learning Progress
-
-| Phase | Progress |
-|--------|----------|
-| 🐍 Python Basics | **4 / 10 Lessons (40%)** |
-| 📦 Data Structures | 0% |
-| 📁 File Handling | 0% |
-| 🏗 Object-Oriented Programming | 0% |
-| 📚 Modules & Packages | 0% |
-| ⚠ Exception Handling | 0% |
-| 🚀 Mini Projects | 0% |
-| 🧩 Problem Solving | 0% |
-
----
-
 # 📂 Repository Structure
 
 ```text
