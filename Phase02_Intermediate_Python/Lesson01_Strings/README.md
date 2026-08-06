@@ -26,6 +26,7 @@ In this lesson, I learned how to create, access, manipulate, and work with strin
 - example_02.py
 - example_03.py
 - example_04.py
+- README.md
 
 ---
 
