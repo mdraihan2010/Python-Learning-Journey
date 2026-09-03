@@ -33,9 +33,6 @@ This lesson contains the following practice files:
 
 - `example_01.py`
 - `example_02.py`
-- `example_03.py`
-- `example_04.py`
-- `example_05.py`
 - `README.md`
 
 ---
